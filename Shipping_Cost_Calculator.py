@@ -1,5 +1,4 @@
 # Here is a new line update by LaiSufang
-# Here is a new line update by LaiSufang
 
 # Shipping Cost Calculator
 
